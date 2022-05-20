@@ -1,17 +1,14 @@
 # Euler's formula
 $$
-\exp^{i\theta} = \cos\theta + i\sin\theta \\
+\begin{align}
+  e^{i\theta} &= \cos\theta + i\sin\theta \\
+  \text{when}\space\theta &= \pi\\
+  e^{i\pi} &= -1 + i0\\
+  \therefore\space　e^{i\pi} + 1 &= 0
+\end{align}
 $$
 
-$$
-\text{if}  
-\theta = \pi\\
-$$
+## Euler's formula
+Establish fundamental relationship between ` trigonometric Function `and ` Complex Exponential Function `
 
-$$
-\exp^{i\pi} = -1 + i0\\
-$$
-
-$$
-\therefore\exp^{i\pi} + 1 = 0
-$$
+$ e $ is the base of `natural logarithm` $i$ is the ` imaginary  Unit`
